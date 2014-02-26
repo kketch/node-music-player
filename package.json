@@ -9,7 +9,7 @@
     "express.io": "*",
     "swig": "*",
     "musicmetadata": "*",
-    "taglib": "*",
+    "taglib": "git://github.com/kketch/node-taglib",
     "nedb": "*",
     "MD5": "*",
     "async": "*",
